@@ -4,3 +4,5 @@ I used gitcommit --amend -m as a shortcut and recieved help from Jose to do so. 
 
 commit e67cc75063d0a1a2e7aa6090a3d9845d517ed5c2. I could not locate the accurate SHA as there was some type of FISH version
 I used git diff to locate the change when I git added to READMe.txt
+Task 9 I used git rm.
+Git revert with the appropraite SHA  for Task 10. 
