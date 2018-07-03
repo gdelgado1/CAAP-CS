@@ -1,2 +1,5 @@
 Task 6
 I used gitcommit --amend -m as a shortcut and recieved help from Jose to do so. I also found this on github.com
+    All fish versions from the very beginning though used a variable called simply  to store their version, so that is the one that should be used.
+
+commit e67cc75063d0a1a2e7aa6090a3d9845d517ed5c2. I could not locate the accurate SHA as there was some type of FISH version
