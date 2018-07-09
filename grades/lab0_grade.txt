@@ -1,0 +1,20 @@
+Task 1: 10 points
+Task 2: 5 points
+Task 3: 5 points
+Task 4:	5 points
+Task 5:	5 points
+Task 6: 4 points
+	--> Sources?
+Task 7: 1 points
+	--> You were supposed to use "git log" to find which commit made the change and the update tasks.txt accordingly. 
+Task 8: 5 points
+Task 9: 3 points
+	--> This answer is what we were looking for for Task 10. For this task, you were suppose to use "git rm <filename>".
+Task 10: 10 points
+	--> Since you got the answer for this in the previous task, I'll give you the points. Just make sure to know the difference between revert and rm.
+Task 11: 2 points
+Total: 55/60
+
+Be more clear in separating your answers in the future. Also, I only deducted points once for not citing sources. In the future points will be deducted for anything that's not cited specifically, e.g. a link. It adds up quickly. 
+
+Otherwise, great job!
