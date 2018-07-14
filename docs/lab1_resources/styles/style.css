@@ -1,0 +1,189 @@
+@charset "UTF-8";
+/* Last edit: 2/18/2018 8:00 PM */
+/* Last validated error free: 2/18/2018 9:27 PM */
+/* Cite code */
+/* Got this img and padding from w3schools.com */
+/* Got the Color Code from HTMLCOLORCODES.com */
+html {background:linear-gradient(60deg, #D9EFE8,white,#D76D6D,white,#D9EFE8,white)}
+header {margin:0}
+ul.hd {list-style-type:none;
+        margin:auto;
+        padding:10px;
+        overflow:hidden;
+        background:linear-gradient(to right, #CFD1D1, #5A706E);
+        font-family:sans-serif;
+        font-size:large;
+        border-top-style:outset;
+        border-left-style: outset;
+        border-right-style: outset;
+        border-bottom:none;
+        border-color:#5A706E;
+        border-radius: 25px;
+        border-width:7px;
+        letter-spacing:3px;}
+li.hd {float:left;}
+li.hd a {display:block; 
+        color:whitesmoke;
+        text-align:center;
+        text-decoration:none;
+        padding:20px;
+        margin-left:10px; margin-right:10px;}
+li.hd a:hover {background-color: #CFD1D1;}
+body {margin-top:0;
+        margin-left:5px;
+        margin-right:5px;}
+h1 {text-align:center;
+    border-bottom-style: outset;
+    border-right-style:outset;
+    border-left-style:outset;
+    border-top:none;
+    border-color:#5A706E;
+    border-width: 7px;
+    border-radius: 25px;
+    padding:10px;
+    margin-top:0;
+    background:linear-gradient(to right, #CFD1D1, #5A706E);
+    color:whitesmoke;
+    font-family: fantasy;
+    letter-spacing: 6px}
+/* https://www.w3schools.com/Css/css_text.asp */
+/* Last validated error free: 7/13/18 2:43 PM */
+section.start {text-align:center;}
+img.kids {padding:2px;
+            border:5px inset #5A706E;}
+blockquote {letter-spacing:2px;
+            font-size:16px;
+            color:whitesmoke;
+            border-style:outset;
+            border-width: 4px;
+            border-color:#801515;
+            display:inline;
+            padding:6px;
+            border-radius: 25px;
+            background-color:#AA3838;
+            margin-bottom: 50px;
+            margin-top: 50px}
+p.intro {margin-top:20px;
+        letter-spacing:2px;
+        background-color: white;
+        border-color:#AA7F7F;
+        padding: 55px;
+        border-width: 4px;
+        border-radius: 50%;
+        text-align:center;}
+section.accom {letter-spacing:2px;
+        background-color: white;
+        border-color:#AA7F7F;
+        padding: 100px;
+        border-width: 4px;
+        border-radius: 50%;
+        text-align:center;}
+a.button{background-color: #D76D6D;
+    box-shadow: 0 5px 0 darkred;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;}
+a.button:hover {background-color: #AD3B3B;}
+a.button:active {box-shadow: none;top: 5px;}
+hr {background-color: transparent;
+    padding: 7px;
+    border:none}
+/* Got this button code from https://css-tricks.com/css-basics-styling-links-like-boss/ but altered the colors */
+section.pr {letter-spacing:2px;
+        background-color: white;
+        border-color:#AA7F7F;
+        padding-left: 110px;
+        padding-right: 110px;
+        padding-top:50px;
+        padding-bottom:180px;
+        border-width: 4px;
+        border-radius: 50%;
+        text-align:center;} 
+li.pr {list-style: none;
+        padding-top: 20px;
+        padding-bottom:20px;
+        margin-left: 0;}
+img.books {padding:2px;
+            border:5px inset #5A706E;
+            float: right;
+            width: 300px;
+            margin-top: 10px;
+            margin-left: 0}
+/* This is the section about the boss (me) */
+section.me {letter-spacing:2px;
+        background-color: white;
+        border-color:#AA7F7F;
+        padding:100px;
+        border-width: 4px;
+        border-radius: 50%;
+        text-align:center;}
+section.qa {letter-spacing:2px;
+        background-color: white;
+        border-color:#AA7F7F;
+        padding:80px;
+        border-width: 4px;
+        border-radius: 50%;
+        text-align:center;
+        margin-bottom:20px}
+img.me {padding:2px;
+            border:5px inset #5A706E;
+            float:center;}
+footer {background: linear-gradient(to right, #CFD1D1, #5A706E);
+        margin-bottom: 0;
+        color:whitesmoke;
+        padding: 10px;
+        font-family: sans-serif;
+        border:outset;
+        border-color:#5A706E;
+        border-width:7px;
+        text-align: justify;
+        letter-spacing:4px;
+        border-radius: 25px;}
+html.prof {background:linear-gradient(60deg, #D9EFE8,white,#D76D6D,white,#D9EFE8,white)}
+a.profb {background-color: #D76D6D;
+    box-shadow: 0 5px 0 darkred;
+    color: white;
+    padding: 1em 1.5em;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;}
+a.profb:hover {background-color: #AD3B3B;}
+a.profb:active {box-shadow: none;top: 5px;}
+ul.prof {list-style-type:none;
+        padding:5px}
+section.prof {letter-spacing:2px;
+        background-color: white;
+        border-color:#AA7F7F;
+        padding: 100px;
+        border-width: 4px;
+        border-radius: 50%;
+        text-align:center;}
+section.prof2 {letter-spacing:2px;
+        background-color: white;
+        border-color:#AA7F7F;
+        padding: 100px;
+        border-width: 4px;
+        border-radius: 50%;
+        text-align:center;}
+section.prof3 {letter-spacing:2px;
+        background-color: white;
+        border-color:#AA7F7F;
+        padding: 100px;
+        border-width: 4px;
+        border-radius: 50%;
+        text-align:center;
+        margin-bottom:20px}
+footer.prof {background: linear-gradient(to right, #CFD1D1, #5A706E);
+        margin-bottom: 0;
+        color:whitesmoke;
+        padding: 10px;
+        font-family: sans-serif;
+        border:outset;
+        border-color:#5A706E;
+        border-width:7px;
+        text-align: justify;
+        letter-spacing:4px;
+        border-radius: 25px;}
+/* Last validated 7/13/2018 10:43 PM */
