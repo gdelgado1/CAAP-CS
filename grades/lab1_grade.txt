@@ -1,0 +1,39 @@
+Lab 1
+CAAP CMSC 101, Summer 2018
+
+Required Elements/Attributes
+  Correct use           3/3
+  Used all              3/3
+  Balanced amount       3/3 
+
+Semantic markup
+  Well structured hierarchies    18/20
+
+Correct use of directories/files
+  Links                 5/5
+  In docs directory     5/5 (* just move everything up to docs,                                 instead of having lab1_resources in docs                             and everything in lab1_resources.*)
+  Git sites works       10/10
+
+Validation
+  Both pages and stylesheets  16/20
+
+Design/CSS
+  Dynamic screen size    5/5
+  Efficient use of CSS on multiple pages     10/10
+  Professional design in both pages  5/5
+  
+
+Code style
+  format         3/3 (* code looks good *)
+  clarity        3/3 (* logic is expressed clearly *)
+  decomposition  3/3 (* problems are factored into sensible subproblems *)
+  efficiency     2/2 (* blatant inefficiencies are avoided *)
+
+_total-score_  94/100
+
+graded by Jose Reyes
+
+Comments:
+- Very neat code!
+- header and nav go inside the body. <head> is only for the page title and meta information, and external files. Everything content related goes in the body.
+- You forgot to validate the stylesheets.
